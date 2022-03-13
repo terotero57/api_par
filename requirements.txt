@@ -1,4 +1,4 @@
 fastapi==0.72.0
-SQLAlchemy @ file:///opt/concourse/worker/volumes/live/31df50e1-4e8b-40a3-6d21-5c6d01ae48e8/volume/sqlalchemy_1618089538006/work
+SQLAlchemy==1.4.7
 pydantic==1.9.0
 typing-extensions==3.7.4.3
